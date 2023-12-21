@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: KomikaTitle
+font link: https://www.fontsquirrel.com/fonts/komika-title
+font author: Fredrick Nader
+font author site: http://pedroreina.net/apostrophiclab/
+
+
+icon designer: Icons By Alfredo
+icon designer link: /AlfredoCreates
+        
+{"bg":"transparent","icon-gradient-0":"#0076DD","icon-gradient-1":"#00CDE9","font":"#000000","slogan":"#141414"}
+      
